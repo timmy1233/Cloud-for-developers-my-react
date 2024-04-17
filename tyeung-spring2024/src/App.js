@@ -3,7 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Hello world from cloud for developers</h1>
+    <h1>Todays is 4/17/2024</h1>
+
   );
 }
 
